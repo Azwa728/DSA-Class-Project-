@@ -1,6 +1,0 @@
-Islamabad|Lahore|380
-Islamabad|Multan|520
-Lahore|Multan|340
-Multan|Karachi|900
-Lahore|Karachi|1250
-Islamabad|Peshawar|180

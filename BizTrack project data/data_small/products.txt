@@ -1,5 +1,0 @@
-P101|Laptop|Electronics|85000|12
-P102|Mouse|Accessories|1500|45
-P103|Keyboard|Accessories|3500|8
-P104|Notebook|Stationery|250|60
-P105|Office Chair|Furniture|17500|3
