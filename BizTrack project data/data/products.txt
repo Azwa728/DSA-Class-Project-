@@ -1,0 +1,50 @@
+P101|Laptop|Electronics|85000|12
+P102|Mouse|Accessories|1500|45
+P103|Keyboard|Accessories|3500|8
+P104|Smartphone|Electronics|62000|27
+P105|Tablet|Electronics|45000|36
+P106|Smart TV 55 inch|Electronics|98000|49
+P107|Bluetooth Speaker|Electronics|7500|35
+P108|Headphones|Electronics|6500|14
+P109|Power Bank|Electronics|4200|57
+P110|Smartwatch|Electronics|15000|2
+P111|WiFi Router|Electronics|5500|38
+P112|Webcam|Electronics|4800|17
+P113|USB Cable|Accessories|450|21
+P114|Phone Case|Accessories|800|25
+P115|Laptop Bag|Accessories|3200|3
+P116|Flash Drive 32GB|Accessories|1200|90
+P117|Mouse Pad|Accessories|600|55
+P118|HDMI Cable|Accessories|900|34
+P119|Phone Charger|Accessories|1800|51
+P120|Screen Protector|Accessories|500|49
+P121|Notebook|Stationery|250|90
+P122|Ballpoint Pens Box|Stationery|300|68
+P123|Stapler|Stationery|450|24
+P124|Marker Set|Stationery|650|59
+P125|File Folder|Stationery|180|50
+P126|Calculator|Stationery|1400|42
+P127|Whiteboard|Stationery|2800|30
+P128|Sticky Notes|Stationery|220|23
+P129|Printer Paper Ream|Stationery|1100|85
+P130|Highlighter Set|Stationery|400|2
+P131|Electric Kettle|Appliances|4500|36
+P132|Microwave Oven|Appliances|28000|57
+P133|Air Fryer|Appliances|18500|41
+P134|Blender|Appliances|7200|31
+P135|Iron|Appliances|3800|69
+P136|Room Heater|Appliances|9500|69
+P137|Table Fan|Appliances|6800|78
+P138|Vacuum Cleaner|Appliances|22000|9
+P139|Rice Cooker|Appliances|5600|14
+P140|Toaster|Appliances|4100|67
+P141|Office Chair|Furniture|17500|57
+P142|Study Desk|Furniture|14500|77
+P143|Bookshelf|Furniture|12000|24
+P144|Filing Cabinet|Furniture|16000|64
+P145|Table Lamp|Furniture|2400|3
+P146|Shoe Rack|Furniture|3900|65
+P147|Monitor Stand|Furniture|3300|55
+P148|Footrest|Furniture|2700|87
+P149|Storage Box|Furniture|1600|25
+P150|Wall Clock|Furniture|1900|3
